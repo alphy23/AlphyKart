@@ -1,4 +1,4 @@
-Project Name: AlphyKart
+Project Name: AlphyKart<BR>
 Type: E-Commerce Web Application
 Focus: Menswear browsing and purchasing platform
 
